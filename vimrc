@@ -31,7 +31,6 @@ set softtabstop=2
 " Enable the mouse for all modes
 set mouse=a
 
-set termguicolors
 
 colorscheme OceanicNext
 
